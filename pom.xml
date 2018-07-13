@@ -23,7 +23,7 @@
 		<name>JavaStreets.com</name>
 		<url>https://javastreets.com</url>
 	</organization>
-	<url>https://github.com/manikmagar/mule-maven-parent-pom</url>
+	<url>https://github.com/nrshubham/mule-maven-parent-pom</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
